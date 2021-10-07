@@ -18,8 +18,12 @@ The user should clone the repository from GitHub and install dependencies. For d
 
 ## Usage 
 This application will allow users to add products to their cart either from the main page or product page. Users can then checkout using Stripe and view their order history.<br>
-Please view deployed application on [Heroku]https://nw-reduxshop.herokuapp.com//)<br>
-<img src='client/public/images/screenshot.png'>
+Please view deployed application on [Heroku]https://pure-shore-08641.herokuapp.com/)<br>
+
+
+![FireShot Capture 021 - 🛍️-Shop-Shop - pure-shore-08641 herokuapp com](https://user-images.githubusercontent.com/87154134/136472674-7d877e51-96ca-4113-962b-393c41f5d027.png)
+
+
 
 ## License 
 This project is license under MIT
